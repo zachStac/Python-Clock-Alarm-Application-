@@ -1,4 +1,5 @@
 #pyhton digital clock
+#version 1.5
 
 import sys
 from tkinter import *
